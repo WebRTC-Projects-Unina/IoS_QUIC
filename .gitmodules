@@ -1,0 +1,6 @@
+[submodule "pong_over_QUIC"]
+	path = pong_over_QUIC
+	url = https://github.com/mgili/AppProtocolOverQUIC
+[submodule "matchmakingServer"]
+	path = matchmakingServer
+	url = https://github.com/mgili/matchmakingServer
